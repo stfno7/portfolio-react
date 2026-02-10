@@ -28,7 +28,7 @@ const Hero = ({ language = "es" }) => {
           <a href="#projects" className="bg-gray-200 text-gray-800 px-6 py-3 rounded-lg hover:bg-gray-300 transition duration-300">
             {t.btnProjects}
           </a>
-          <a href="dist/StefanoP-CV.pdf" target="_blank" rel="noopener noreferrer" className="border border-gray-400 text-gray-700 px-6 py-3 rounded-lg hover:border-blue-500 hover:text-blue-500 transition duration-300">
+          <a href="/StefanoP-CV.pdf" target="_blank" rel="noopener noreferrer" className="border border-gray-400 text-gray-700 px-6 py-3 rounded-lg hover:border-blue-500 hover:text-blue-500 transition duration-300">
           {t.btnCV}
           </a>
         </div>
