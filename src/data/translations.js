@@ -65,7 +65,7 @@ const translations = {
         tags: ["HTML", "CSS", "JavaScript"],
         imgSrc: "img/proyecto-ases/preview.png",
         title: "Gym Coach Website",
-        description: "Website design for a gym coach. JavaScript and Form validation using FormSpree",
+        description: "Diseño de sitio web para coach de gimnasio, con uso de JavaScript y validación de formulario con Formspree",
         demoUrl: "https://larrondopersonalizados.netlify.app/",
         codeUrl: "https://github.com/stfno7/reponew-FRONT_TT_2C2024"
        }
