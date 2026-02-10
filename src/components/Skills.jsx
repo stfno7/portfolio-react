@@ -3,7 +3,6 @@ import translations from "../data/translations";
 import {FaReact,FaHtml5,FaCss3Alt,FaJs,FaPhp,FaGitAlt} from "react-icons/fa";
 import { SiFirebase, SiTailwindcss, SiMysql, SiFigma, SiAdobephotoshop, SiWordpress } from "react-icons/si";
 
-
 const skillIcons = {
   React: <FaReact className="text-sky-500" />,
   HTML5: <FaHtml5 className="text-orange-500" />,

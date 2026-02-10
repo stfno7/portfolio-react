@@ -15,7 +15,7 @@ const Hero = ({ language = "es" }) => {
               strings: ["Stefano Parrachini"],
               autoStart: true,
               loop: true,
-              delay: 75,
+              delay: 7,
             }}
           />
         </h1>
